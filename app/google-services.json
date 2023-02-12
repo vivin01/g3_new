@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920440257459",
+    "project_id": "we-4-f902b",
+    "storage_bucket": "we-4-f902b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920440257459:android:ac283fa8142aa21dcde9c6",
+        "android_client_info": {
+          "package_name": "com.vivin.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920440257459-uheuobovf700hp840llhfjhnicrhs26n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOygBCKa_Z0b6ubDM7oF7hybIizcU8EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920440257459-uheuobovf700hp840llhfjhnicrhs26n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
