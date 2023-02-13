@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -34,6 +35,7 @@ public class UserImagesList extends AppCompatActivity {
         Intent inti = getIntent();
 
         listView = findViewById(R.id.listView);
+        Toast.makeText(this, "vivin", Toast.LENGTH_SHORT).show();
 
         ArrayList<String> list = new ArrayList<>();
         ArrayAdapter adapter = new ArrayAdapter<String>(UserImagesList.this,R.layout.activity_list_item, list);
