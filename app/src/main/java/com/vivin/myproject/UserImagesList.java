@@ -38,7 +38,7 @@ public class UserImagesList extends AppCompatActivity {
         Toast.makeText(this, "vivin", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
+
 
         ArrayList<String> list = new ArrayList<>();
         ArrayAdapter adapter = new ArrayAdapter<String>(UserImagesList.this,R.layout.activity_list_item, list);
