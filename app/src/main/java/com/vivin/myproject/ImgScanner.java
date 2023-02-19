@@ -129,6 +129,7 @@ public class ImgScanner extends AppCompatActivity {
                 public void onComplete(@NonNull Task<UploadTask.TaskSnapshot> task) {
                     if (task.isSuccessful()) {
                         Toast.makeText(ImgScanner.this, "Image Uploaded", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(ImgScanner.this, "Image Uploaded", Toast.LENGTH_SHORT).show();
                     } else {
                         Toast.makeText(ImgScanner.this, "Image uploading Failed", Toast.LENGTH_SHORT).show();
                     }
