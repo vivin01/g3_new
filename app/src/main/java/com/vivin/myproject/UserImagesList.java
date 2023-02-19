@@ -37,7 +37,7 @@ public class UserImagesList extends AppCompatActivity {
         listView = findViewById(R.id.listView);
         Toast.makeText(this, "vivin", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
+
 
 
         ArrayList<String> list = new ArrayList<>();
